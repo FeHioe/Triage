@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/csc207-2014-09/group_0889/!svn/ver/63/app/phase2_app/Triage/res/layout
+END
+activity_records_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/csc207-2014-09/group_0889/!svn/ver/63/app/phase2_app/Triage/res/layout/activity_records_list.xml
+END
+activity_patient_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/csc207-2014-09/group_0889/!svn/ver/56/app/phase2_app/Triage/res/layout/activity_patient_list.xml
+END
+activity_main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/csc207-2014-09/group_0889/!svn/ver/57/app/phase2_app/Triage/res/layout/activity_main.xml
+END
+activity_search_records.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/csc207-2014-09/group_0889/!svn/ver/63/app/phase2_app/Triage/res/layout/activity_search_records.xml
+END
+activity_new_record.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/csc207-2014-09/group_0889/!svn/ver/62/app/phase2_app/Triage/res/layout/activity_new_record.xml
+END
+activity_patient_information.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/csc207-2014-09/group_0889/!svn/ver/62/app/phase2_app/Triage/res/layout/activity_patient_information.xml
+END
